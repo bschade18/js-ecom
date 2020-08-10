@@ -1,0 +1,50 @@
+[
+  {
+    "email": "bobby@gmail.com"
+  },
+  {
+    "email": "heynow@gmail.com",
+    "password": "hello",
+    "id": "d36503a6"
+  },
+  {
+    "email": "abbey@gmail.com",
+    "password": "pw",
+    "id": "2762b6f1"
+  },
+  {
+    "email": "neville@gmail.com",
+    "password": "4�f�}�ð��U�+3$�HK\u0004���1�\u001c����\u0006�u+:S����|��1�\u0002�#�\u0010˛���\u001f�U�D�Wv[�.toString('hex').078ee93baa7716df",
+    "id": "4a4f0b3d"
+  },
+  {
+    "email": "hello@gmail.com",
+    "password": "6be13666a26d94c984aeae7338115117353998a2e5de4ad642efa4d055a26844d762fb517b030f0ecc16853b4916be0f07439be2ee2fa20446803df3cbd75836.b98a1909fc8d6e7f",
+    "id": "a235a800"
+  },
+  {
+    "email": "lebron@gmail.com",
+    "password": "409c0100ad7b1673afe6bd8144e6f5622c745c3c98517fa9e2c4e2ed0b560d3108ef848b0cacf832f8f5e0f874a65c6a05f7ef5b155bbe642b6fdd468e9b3f3e.ef7db8e23ff7cee1",
+    "id": "95f41a8f"
+  },
+  {
+    "email": "hal@gmail.com",
+    "password": "48e45120baca92893fa884cfd8b61c6c8d9c88066a6d2fba8be9ac0f01e81a2be5a433c6008e4964673dec1d6117289d5eeb8f4af0fd54184e05db211011cbf5.b776a6d82a9d7de6",
+    "id": "25882640"
+  },
+  {
+    "email": "yo@gmail.com",
+    "password": "01f2b209b748774838a397f81a86f1d4510bb2817342146400375942b7c48c8ad0e4c32eb511cdc297802db4ae37a8253ee8d82fe528a0572a9e378a11737d0d.bdc5343459ddc375",
+    "id": "fba63bcc"
+  },
+  {
+    "email": "jsaass@google.com",
+    "password": "127a0407c92a871633309e5226c73788b78086c202a7471febc2d3ab304ffeb477c0a1775ac673656611a8c4b2f32cba0cabc9fc88a33e61f348e1bf3287d4fd.70b5b6ece2d6c1e1",
+    "id": "1a6eebec"
+  },
+  {
+    "email": "jane@gmail.com",
+    "password": "f75a07e5e83243a4e1c5906243705e4a1f8cba319d0cde2578a3198a0c27bd0981a9e92225c0d61d37940bcdf24e213217fa1734ec935fe18983d722a753a150.f9207e93cb2eb378",
+    "id": "dbad4465"
+  }
+]
