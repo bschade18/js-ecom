@@ -1,11 +1,14 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cookieSession = require('cookie-session');
+const dotenv = require('dotenv');
 
 const authRouter = require('./routes/admin/auth');
 const adminProductsRouter = require('./routes/admin/products');
 const productsRouter = require('./routes/products');
 const cartsRouter = require('./routes/carts');
+
+dotenv.config({ path: './config/config.env' });
 
 const app = express();
 
@@ -22,4 +25,6 @@ app.use(adminProductsRouter);
 app.use(productsRouter);
 app.use(cartsRouter);
 
-app.listen(3000, console.log('server is running...'));
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, console.log('server is running...'));
