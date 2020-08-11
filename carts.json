@@ -38,7 +38,16 @@
     "id": "886d8718"
   },
   {
-    "items": [],
+    "items": [
+      {
+        "id": "ef6e1eb1",
+        "quantity": 2
+      },
+      {
+        "id": "a8f3ec8c",
+        "quantity": 3
+      }
+    ],
     "id": "336e721e"
   }
 ]

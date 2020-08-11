@@ -27,7 +27,7 @@ module.exports = ({ req, errors }) => {
                   'passwordConfirmation'
                 )}</p>
               </div>
-              <button class="button is-primary">Submit</button>
+              <button class="button is-success">Submit</button>
             </form>
             <a href="/signin">Have an account? Sign In</a>
           </div>
